@@ -9,6 +9,14 @@ Rather than relying on black-box libraries (`nn.Transformer`, HuggingFace), ever
 
 ---
 
+### 🖥️ Interactive Web Interface Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="SadaLLM Interactive Web Demo" width="750px">
+</p>
+
+---
+
 ## 📚 Foundational Research Papers (Academic Syllabus)
 
 Every component in SadaLLM is directly grounded in landmark literature:
