@@ -1,0 +1,4 @@
+torch>=2.0.0
+matplotlib>=3.5.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
